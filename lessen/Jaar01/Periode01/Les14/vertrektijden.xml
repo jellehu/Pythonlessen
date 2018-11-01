@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+
+<ActueleVertrekTijden>
+
+	<VertrekkendeTrein>
+		<RitNummer>854</RitNummer>
+		<VertrekTijd>2018-11-01T16:28:00+0100</VertrekTijd>
+		
+			<VertrekVertraging>PT2M</VertrekVertraging>
+		
+		
+			<VertrekVertragingTekst>+2 min</VertrekVertragingTekst>
+		
+		<EindBestemming>Schagen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Amstel, Amsterdam C., A'dam Sloterdijk</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">7</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>1754</RitNummer>
+		<VertrekTijd>2018-11-01T16:30:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Den Haag Centraal</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Gouda</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">8</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>28329</RitNummer>
+		<VertrekTijd>2018-11-01T16:31:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Utrecht Maliebaan</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">1</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>859</RitNummer>
+		<VertrekTijd>2018-11-01T16:33:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Maastricht</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>s-Hertogenbosch, Eindhoven, Weert</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">18</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>2854</RitNummer>
+		<VertrekTijd>2018-11-01T16:33:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Rotterdam Centraal</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Gouda, Alexander</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">20</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7454</RitNummer>
+		<VertrekTijd>2018-11-01T16:33:00+0100</VertrekTijd>
+		
+			<VertrekVertraging>PT2M</VertrekVertraging>
+		
+		
+			<VertrekVertragingTekst>+2 min</VertrekVertragingTekst>
+		
+		<EindBestemming>Uitgeest</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Breukelen, Bijlmer ArenA, Amsterdam C.</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">14</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>6559</RitNummer>
+		<VertrekTijd>2018-11-01T16:34:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Houten Castellum</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Houten</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">21</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>5559</RitNummer>
+		<VertrekTijd>2018-11-01T16:36:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Baarn</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Overvecht, Den Dolder, Soest</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">3</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>1759</RitNummer>
+		<VertrekTijd>2018-11-01T16:36:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Enschede</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Amersfoort, Apeldoorn, Deventer</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">12</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3054</RitNummer>
+		<VertrekTijd>2018-11-01T16:38:00+0100</VertrekTijd>
+		
+			<VertrekVertraging>PT3M</VertrekVertraging>
+		
+		
+			<VertrekVertragingTekst>+3 min</VertrekVertragingTekst>
+		
+		<EindBestemming>Den Helder</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Amstel, Amsterdam C., A'dam Sloterdijk</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">5</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7854</RitNummer>
+		<VertrekTijd>2018-11-01T16:39:00+0100</VertrekTijd>
+		
+			<VertrekVertraging>PT2M</VertrekVertraging>
+		
+		
+			<VertrekVertragingTekst>+2 min</VertrekVertragingTekst>
+		
+		<EindBestemming>Den Haag Centraal</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Woerden, Gouda, Zoetermeer</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">20</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3159</RitNummer>
+		<VertrekTijd>2018-11-01T16:39:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Nijmegen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Ede-Wageningen, Arnhem C.</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">19</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>5756</RitNummer>
+		<VertrekTijd>2018-11-01T16:40:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Weesp</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Overvecht, Hilversum</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">1</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3556</RitNummer>
+		<VertrekTijd>2018-11-01T16:41:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Schiphol Airport</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>A'dam Zuid</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">7</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>6059</RitNummer>
+		<VertrekTijd>2018-11-01T16:41:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Tiel</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Houten, Geldermalsen</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">21</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7359</RitNummer>
+		<VertrekTijd>2018-11-01T16:42:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Veenendaal Centrum</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Driebergen-Zeist, Maarn</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">15</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3959</RitNummer>
+		<VertrekTijd>2018-11-01T16:44:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Heerlen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>s-Hertogenbosch, Eindhoven, Weert</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">18</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>2054</RitNummer>
+		<VertrekTijd>2018-11-01T16:45:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Den Haag Centraal</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Gouda</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">9</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3956</RitNummer>
+		<VertrekTijd>2018-11-01T16:48:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Enkhuizen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Amstel, Amsterdam C., A'dam Sloterdijk</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">7</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>559</RitNummer>
+		<VertrekTijd>2018-11-01T16:48:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Groningen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Amersfoort, Zwolle, Assen</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">12</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>654</RitNummer>
+		<VertrekTijd>2018-11-01T16:48:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Rotterdam Centraal</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Gouda, Alexander</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">8</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>5659</RitNummer>
+		<VertrekTijd>2018-11-01T16:48:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Zwolle</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Overvecht, Den Dolder, Amersfoort</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">3</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7354</RitNummer>
+		<VertrekTijd>2018-11-01T16:50:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Breukelen</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">14</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>4958</RitNummer>
+		<VertrekTijd>2018-11-01T16:52:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Almere Centrum</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Hilversum</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">2</VertrekSpoor>
+		
+			<ReisTip>Stopt niet in Utrecht Overvecht , Hollandsche Rading en Hilversum Media Park</ReisTip>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>6156</RitNummer>
+		<VertrekTijd>2018-11-01T16:52:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Woerden</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">20</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>6961</RitNummer>
+		<VertrekTijd>2018-11-01T16:52:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>s-Hertogenbosch</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Houten, Geldermalsen</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">21</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3059</RitNummer>
+		<VertrekTijd>2018-11-01T16:54:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Nijmegen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Ede-Wageningen, Arnhem C.</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">19</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3559</RitNummer>
+		<VertrekTijd>2018-11-01T16:54:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Venlo</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>s-Hertogenbosch, Eindhoven, Helmond</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">18</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>8856</RitNummer>
+		<VertrekTijd>2018-11-01T16:55:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Leiden Centraal</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Alphen a/d Rijn</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">11</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7459</RitNummer>
+		<VertrekTijd>2018-11-01T16:55:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Rhenen</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Driebergen-Zeist, Maarn, Veenendaal C.</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">15</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3156</RitNummer>
+		<VertrekTijd>2018-11-01T16:55:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Schiphol Airport</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>A'dam Zuid</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">5</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>856</RitNummer>
+		<VertrekTijd>2018-11-01T16:58:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Den Helder</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Amstel, Amsterdam C., A'dam Sloterdijk</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">7</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>11756</RitNummer>
+		<VertrekTijd>2018-11-01T17:00:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Den Haag Centraal</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Gouda</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">8</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>124</RitNummer>
+		<VertrekTijd>2018-11-01T17:03:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Amsterdam Centraal</EindBestemming>
+		<TreinSoort>ICE International</TreinSoort>
+		
+		
+			<Vervoerder>NS International</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">5</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>861</RitNummer>
+		<VertrekTijd>2018-11-01T17:03:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Maastricht</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>s-Hertogenbosch, Eindhoven, Weert</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">18</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>2856</RitNummer>
+		<VertrekTijd>2018-11-01T17:03:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Rotterdam Centraal</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Gouda, Alexander</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">20</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7456</RitNummer>
+		<VertrekTijd>2018-11-01T17:03:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Uitgeest</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Breukelen, Bijlmer ArenA, Amsterdam C.</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">14</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>6561</RitNummer>
+		<VertrekTijd>2018-11-01T17:04:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Houten Castellum</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Houten</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">21</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>11761</RitNummer>
+		<VertrekTijd>2018-11-01T17:06:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Amersfoort Schothorst</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Amersfoort</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">12</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>5561</RitNummer>
+		<VertrekTijd>2018-11-01T17:06:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Baarn</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Overvecht, Den Dolder, Soest</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">3</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>129</RitNummer>
+		<VertrekTijd>2018-11-01T17:06:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Frankfurt (M) H</EindBestemming>
+		<TreinSoort>ICE International</TreinSoort>
+		
+			<RouteTekst>Arnhem C., Dusseldorf, Koln Hbf</RouteTekst>
+		
+		
+			<Vervoerder>NS International</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">15</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3056</RitNummer>
+		<VertrekTijd>2018-11-01T17:08:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Den Helder</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Amstel, Amsterdam C., A'dam Sloterdijk</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">5</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7856</RitNummer>
+		<VertrekTijd>2018-11-01T17:09:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Den Haag Centraal</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Woerden, Gouda, Zoetermeer</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">20</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3161</RitNummer>
+		<VertrekTijd>2018-11-01T17:09:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Nijmegen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Ede-Wageningen, Arnhem C.</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">19</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>5758</RitNummer>
+		<VertrekTijd>2018-11-01T17:10:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Weesp</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Overvecht, Hilversum</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">1</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3558</RitNummer>
+		<VertrekTijd>2018-11-01T17:11:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Schiphol Airport</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>A'dam Zuid</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">7</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>6061</RitNummer>
+		<VertrekTijd>2018-11-01T17:11:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Tiel</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Houten, Geldermalsen</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">21</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>7361</RitNummer>
+		<VertrekTijd>2018-11-01T17:12:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Veenendaal Centrum</EindBestemming>
+		<TreinSoort>Sprinter</TreinSoort>
+		
+			<RouteTekst>Driebergen-Zeist, Maarn</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">15</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>3961</RitNummer>
+		<VertrekTijd>2018-11-01T17:14:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Heerlen</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>s-Hertogenbosch, Eindhoven, Weert</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">18</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+	<VertrekkendeTrein>
+		<RitNummer>2056</RitNummer>
+		<VertrekTijd>2018-11-01T17:15:00+0100</VertrekTijd>
+		
+		
+		<EindBestemming>Den Haag Centraal</EindBestemming>
+		<TreinSoort>Intercity</TreinSoort>
+		
+			<RouteTekst>Gouda</RouteTekst>
+		
+		
+			<Vervoerder>NS</Vervoerder>
+		
+		<VertrekSpoor wijziging="false">9</VertrekSpoor>
+		
+		
+	</VertrekkendeTrein>
+
+</ActueleVertrekTijden>
